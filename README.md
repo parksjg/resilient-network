@@ -1,4 +1,4 @@
-# networkup
+# resilient-network
 
 The "current" folder contains one server (s2.cpp) and one client (c2.cpp). The server and client have 2 NICs. This is being developed on a MacBook Pro using two virtual machines running Fedora 26. Then it is further tested on a private network with separate laptops running Fedora 26.
 
